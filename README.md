@@ -11,4 +11,8 @@ Para o desenvolvimento desta aplicação utilizamos React, React Router, JavaScr
 ## Como executar a aplicação?
 Caso queira apenas ver a aplicação em funcionamento, você pode acessar [o link em que ela foi publicada](https://wes-santos.github.io/frontend-online-store). Todavia, se deseja executá-la localmente, é preciso ter o Node Package Manager instalado. Após isso, basta executar o comando `npm install` e, em seguida, `npm start`.
 
+<<<<<<< HEAD
 Então, uma janela de seu navegador principal deve abrir com a aplicação em execução. Caso isso não ocorra, observe no terminal a porta em que a aplicação está sendo executada e acesse-a por meio de seu browser.
+=======
+Então, uma janela de seu navegador principal deve abrir com a aplicação em execução. Caso isso não ocorra, observe no terminal a porta em que a aplicação está sendo executada e acesse-a por meio de seu browser.
+>>>>>>> 7d9655a12e82389b30f02b18ea67f58fe747d1ca
